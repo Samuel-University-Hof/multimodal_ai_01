@@ -1,0 +1,1 @@
+https://chat-1.ki-awz.iisys.de/api/chat/completions
